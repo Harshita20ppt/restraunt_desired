@@ -1,2 +1,8 @@
-# special-octo-happiness
-the one which could help me to decide and book table in a restaurant
+# Restaurant Landing Page
+
+- Used bootstrap tools & own styles.
+- Implemented responsive template.
+
+👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+
+![Demo](img/demo.gif)
